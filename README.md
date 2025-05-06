@@ -36,9 +36,6 @@ Cibersegurança, inteligência artificial aplicadas ao cotidiano e em criação 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine" />
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/c4/a6/d7/c4a6d758d50d7e49d3919c25cea3c897.gif" alt="Unreal Engine GIF" height="200">
-</p>
 
 
 
