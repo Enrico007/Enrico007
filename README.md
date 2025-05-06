@@ -33,7 +33,9 @@ Cibersegurança, inteligência artificial aplicadas ao cotidiano e em criação 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine" />
 </p>
+
 
 <p align="center">
   <img src="https://github.com/Enrico007/Enrico007/blob/main/profile-image.png" alt="Imagem centralizada" />
