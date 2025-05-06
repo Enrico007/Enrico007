@@ -37,9 +37,6 @@ Cibersegurança, inteligência artificial aplicadas ao cotidiano e em criação 
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/Enrico007/Enrico007/blob/main/profile-image.png" alt="Imagem centralizada" />
-</p>
 
 
 
