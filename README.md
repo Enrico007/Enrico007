@@ -13,7 +13,7 @@ Java, Kotlin, Go (Golang) e Python — com foco em desenvolvimento **backend**.
 DevOps, containers, CI/CD e automação de processos.
 
 🔐 **Curioso por:**  
-Cibersegurança e inteligência artificial aplicadas ao cotidiano.
+Cibersegurança, inteligência artificial aplicadas ao cotidiano e em criação de jogos.
 
 📚 Este repositório é onde compartilho meus estudos, projetos escolares e experiências com a comunidade.
 
